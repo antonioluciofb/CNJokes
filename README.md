@@ -43,7 +43,7 @@
 
 ## Layout:
 
-![Dashboard]()
+![Dashboard](https://github.com/antonioluciofb/CNJokes/blob/main/prints/Tela%20Inicial.png)
 
 ## Pré-requisitos
 
